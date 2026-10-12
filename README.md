@@ -51,7 +51,6 @@ The original memory image is not included in this repository.
 - `SBTDF204_CaseStudy3_2025-FWSD-11486.pdf` — Completed forensic investigation report with labelled screenshots, timeline, and evidence log.
 
 
-## Limitations
 
 The findings are limited to the artefacts recovered from the supplied memory image. Registry and ShellBags records do not independently prove file transfer, and the recovered console output does not establish the real-world identity or intent of the operator.
 
