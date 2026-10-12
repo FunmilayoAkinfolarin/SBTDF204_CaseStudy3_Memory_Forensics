@@ -47,9 +47,9 @@ The original memory image is not included in this repository.
 
 ## Repository Contents
 
-- `README.md` — Project overview and summary of findings.
-- `SBTDF204_CaseStudy3_RegistrationNumber.pdf` — Final report, if included.
-- Supporting screenshots and analysis outputs, if included.
+- `README.md` — Project overview, objectives, tools, and summary of findings.
+- `SBTDF204_CaseStudy3_2025-FWSD-11486.pdf` — Completed forensic investigation report with labelled screenshots, timeline, and evidence log.
+
 
 ## Limitations
 
